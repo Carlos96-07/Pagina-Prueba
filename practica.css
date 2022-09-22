@@ -1,0 +1,118 @@
+/* 
+Prueba de css en practica de pagina Web. */
+*{
+    box-sizing: border-box;
+}
+.video1, .video2, .video3, .video4, .video5{
+    margin-left: 620px;
+    
+}
+
+.text{
+    background-color: yellow;
+    color: black;
+    margin: auto ;
+    overflow:hidden;
+    font-size: 22px;
+    text-align: center;
+    
+}
+.top{
+    color: rgb(255, 245, 245);
+    font-size: 27px;
+    
+}
+body{
+    background-color: rgb(14, 13, 13);
+    overflow-y: auto;
+    overflow-x: auto;
+}
+.text2{
+    background-color: yellow;
+    color: black;
+    margin: auto;
+    overflow: hidden;
+    font-size: 22px;
+    text-align: center;
+}
+.tt{
+    background-color: yellow;
+    color: black;
+    margin: auto;
+}
+.vv{
+    background-color: yellow;
+    color: black;
+    margin: auto;
+    font-size: 22px;
+}
+.ff{
+    background-color: yellow;
+    color: black;
+    margin: auto;
+    font-size: 22px;
+}
+.color{
+    background-color: blanchedalmond;
+}
+.text:hover{
+    background-color: white;
+}
+.vv:hover{
+    background-color: white;
+}
+.text2:hover{
+    background-color: white;
+}
+.ee{
+    background-color: yellow;
+    color: rgb(19, 17, 17);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    font-size: 25px;
+}
+.gg:hover{
+    background-color: rgb(235, 235, 235);
+    color: black;
+}
+.gg{
+    background-color: yellow;
+    font-size: 22px;
+}
+.re{
+    color: white;
+}
+.ww{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+.pk{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.pd{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 38px;
+    text-align: center;
+}
+.bm{
+    color: white;
+}
+.arr{
+    color: white;
+}
+.ub{
+    color: white;
+    text-align: center;
+}
+
+.ubb{
+    margin-left: 485px;
+}
